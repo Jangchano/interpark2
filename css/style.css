@@ -1,0 +1,7 @@
+@import url(font.css);
+@import url(common.css);
+@import url(header.css);
+@import url(todaypick.css);
+@import url(shopping.css);
+@import url(event.css);
+/* css파일도 다른 css파일을 불러올수있음 */
